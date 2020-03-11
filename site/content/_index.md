@@ -4,12 +4,7 @@ subtitle: Berbagi Tutorial Sekedarnya
 image: img/products-full-width.jpg
 blurb:
   heading: Sekedar Berbagi
-  text: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec rhoncus
-    felis, eu efficitur velit. Duis consectetur vulputate massa at tincidunt.
-    Praesent sollicitudin porta malesuada. Maecenas malesuada id nisi et
-    pretium. Phasellus id quam condimentum, fermentum nisi eget, ullamcorper
-    diam. 
+  text: Berbagi tutorial itu enak sekali.
 intro:
   heading: Apa yang kita bagi?
   text: >-
