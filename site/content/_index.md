@@ -1,20 +1,52 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Sekedar Berbagi Tutorial
+subtitle: Berbagi Tutorial Sekedarnya
+image: img/products-full-width.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Sekedar Berbagi
+  text: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec rhoncus
+    felis, eu efficitur velit. Duis consectetur vulputate massa at tincidunt.
+    Praesent sollicitudin porta malesuada. Maecenas malesuada id nisi et
+    pretium. Phasellus id quam condimentum, fermentum nisi eget, ullamcorper
+    diam. 
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Apa yang kita bagi?
+  text: >-
+    Aenean a odio eu augue luctus gravida. Vestibulum bibendum commodo mauris,
+    ut faucibus ante tincidunt sit amet. Nam sed leo risus. Nullam hendrerit,
+    leo at mollis aliquet, sapien erat ultrices urna, ut iaculis ante tellus
+    posuere diam. Proin diam arcu, pretium id sapien ac, vehicula mattis elit.
+    Sed nulla mi, facilisis non neque vitae, mattis ultricies nisi. Quisque
+    volutpat elit nec massa convallis mollis. Duis vitae lacus a risus iaculis
+    cursus. Pellentesque dui lorem, consequat vitae elit ac, egestas
+    sollicitudin risus. Praesent lacinia laoreet ipsum, vitae maximus diam
+    efficitur sed. Pellentesque congue id arcu id aliquet. 
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/safari-pinned-tab.svg
+    text: >-
+      Sed leo magna, feugiat vel ullamcorper in, pretium ac nunc. Vivamus
+      suscipit hendrerit magna, nec tempor diam eleifend ac. Morbi lobortis
+      gravida ex et cursus. Maecenas id orci tempus, lacinia mauris eget,
+      suscipit erat. 
+  - image: img/android-chrome-512x512.png
+    text: >-
+      Nulla viverra sapien libero, a molestie dolor viverra ac. Lorem ipsum
+      dolor sit amet, consectetur adipiscing elit. Ut mollis facilisis quam vel
+      bibendum. Vestibulum dignissim, enim sit amet posuere dignissim, mauris ex
+      viverra quam, id sodales enim enim non justo. 
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Contributor
+  text: >-
+    Suspendisse potenti. Proin sapien dui, vulputate nec ipsum at, volutpat
+    fermentum ipsum. Aliquam nec lorem egestas risus sagittis molestie et eu
+    felis. Nullam dapibus leo quis libero mollis scelerisque. Phasellus quam
+    velit, viverra a sem et, malesuada tempor augue. In dictum dapibus interdum.
+    Phasellus scelerisque purus tortor, at tempus sapien volutpat nec. Aenean
+    malesuada imperdiet eros non rhoncus. Fusce faucibus placerat mi a sagittis.
+    Curabitur cursus pharetra eros, nec posuere ante vulputate lacinia. Nam nec
+    ipsum id augue dignissim placerat. Pellentesque ut tristique felis. Aenean
+    quis velit sed velit interdum suscipit id et neque. Cras suscipit sagittis
+    massa, id lobortis massa vehicula sit amet. Aenean scelerisque sed lectus in
+    vehicula.
 ---
-
